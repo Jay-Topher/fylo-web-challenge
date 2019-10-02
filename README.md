@@ -1,2 +1,3 @@
 # fylo-web-challenge
-A website UI for practicing CSS/SCSS
+
+A UI Challenge for practicing CSS/SCSS
